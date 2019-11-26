@@ -2,12 +2,7 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-# Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
 *.rb linguist-language=Java
-
-# Replace any whitespace in the language name with hyphens:
-*.glyphs linguist-language=OpenStep-Property-List
-
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
