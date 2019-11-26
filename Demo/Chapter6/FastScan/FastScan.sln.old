@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FastScan", "FastScan.vcproj", "{D1FD01F2-D32D-48A9-B594-412E36CB4B5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D1FD01F2-D32D-48A9-B594-412E36CB4B5E}.Debug.ActiveCfg = Debug|Win32
+		{D1FD01F2-D32D-48A9-B594-412E36CB4B5E}.Debug.Build.0 = Debug|Win32
+		{D1FD01F2-D32D-48A9-B594-412E36CB4B5E}.Release.ActiveCfg = Release|Win32
+		{D1FD01F2-D32D-48A9-B594-412E36CB4B5E}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

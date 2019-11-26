@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JokesWithMouse", "JokesWithMouse.vcproj", "{1001F8F6-3A80-43DD-9EF2-2FA5433D5131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1001F8F6-3A80-43DD-9EF2-2FA5433D5131}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1001F8F6-3A80-43DD-9EF2-2FA5433D5131}.Debug|Win32.Build.0 = Debug|Win32
+		{1001F8F6-3A80-43DD-9EF2-2FA5433D5131}.Release|Win32.ActiveCfg = Release|Win32
+		{1001F8F6-3A80-43DD-9EF2-2FA5433D5131}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

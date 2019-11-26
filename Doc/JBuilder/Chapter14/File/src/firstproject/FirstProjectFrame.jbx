@@ -1,0 +1,25 @@
+[PropertyInfo]
+image1,ImageIcon,false,false, , ,false,<default>
+image2,ImageIcon,false,false, , ,false,<default>
+image3,ImageIcon,false,false, , ,false,<default>
+jButton1,JButton,false,false, , ,false,<default>
+jButton10,JButton,false,false, , ,false,<default>
+jButton2,JButton,false,false, , ,false,<default>
+jButton3,JButton,false,false, , ,false,<default>
+jButton4,JButton,false,false, , ,false,<default>
+jButton5,JButton,false,false, , ,false,<default>
+jButton6,JButton,false,false, , ,false,<default>
+jButton7,JButton,false,false, , ,false,<default>
+jButton8,JButton,false,false, , ,false,<default>
+jButton9,JButton,false,false, , ,false,<default>
+menuBar1,JMenuBar,false,false, , ,false,<default>
+menuFile,JMenu,false,false, , ,false,<default>
+menuFileExit,JMenuItem,false,false, , ,false,<default>
+menuHelp,JMenu,false,false, , ,false,<default>
+menuHelpAbout,JMenuItem,false,false, , ,false,<default>
+toolBar,JToolBar,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
