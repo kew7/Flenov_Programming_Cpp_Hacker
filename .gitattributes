@@ -2,7 +2,9 @@
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
 * text=auto
-*.rb linguist-language=Java
+* linguist-vendored
+*.cpp linguist-vendored=false
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
